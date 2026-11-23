@@ -20,9 +20,6 @@ Technologies Used
 * Media Queries
 * Google Fonts
 
-AI-Generated Image
-The hero image was generated using AI specifically for this project, based on the project brief. It was created to support the visual concept and communicate the connection between access to clean water, education, and future opportunities.
-
 Project Goal
 To create a visually engaging, accessible, and responsive landing page that communicates the impact of small recurring donations and encourages visitors to take action.
 
